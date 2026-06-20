@@ -1,6 +1,7 @@
 {
     "name": "leorossi/laravel-image-s3",
     "description": "Upload images to S3/R2/local disk and generate configurable size/quality variants for Laravel.",
+    "version": "0.1.0",
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel", "image", "upload", "s3", "r2", "variants", "resize"],
